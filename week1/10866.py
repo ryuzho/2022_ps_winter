@@ -30,3 +30,4 @@ for _ in range(N):
     elif comm[0] == 'back':
         if len(deq) == 0: print(-1)
         else: print(deq[-1])
+        
